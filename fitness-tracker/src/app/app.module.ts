@@ -8,7 +8,7 @@ import {MaterialModule} from './material.module';
 import { SignupComponent } from './auth/signup/signup.component';
 import { LoginComponent } from './auth/login/login.component';
 import { TrainingComponent } from './training/training.component';
-import { CurrentComponent } from './training/current/current.component';
+import { CurrentTrainingComponent } from './training/current-training/current-training.component';
 import { NewTrainingComponent } from './training/new-training/new-training.component';
 import { PastTrainingsComponent } from './training/past-trainings/past-trainings.component';
 import { WelcomeComponent } from './welcome/welcome.component';
@@ -23,7 +23,7 @@ import { SidenavListComponent } from './navigation/sidenav-list/sidenav-list.com
     SignupComponent,
     LoginComponent,
     TrainingComponent,
-    CurrentComponent,
+    CurrentTrainingComponent,
     NewTrainingComponent,
     PastTrainingsComponent,
     WelcomeComponent,
